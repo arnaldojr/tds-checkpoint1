@@ -1,55 +1,31 @@
-# Template para desenvolvimento e entrega de NAC
+# Template para desenvolvimento e entrega do Checkpoint
 
-Esse é um guia simples, o grupo pode e deve modificar o template conforme necessidade. 
+Esse é um guia simples, o estudante pode e deve modificar o template para atender as necessidades do projeto. 
 
-# Nome do projeto
+**nome: (Seu nome)** 
 
-**nome dos alunos:** 
+**Turma: (Sua Turma)**
 
-**Turma:**
-
-**Ano:**
+**Ano: 2023**
 
 ## Objetivo / descrição do Projeto
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
+Você foi contratado por uma empresa inovadora do ramo imobiliario como `QuintoAndar, Loft, Terraz, grupo Zap (ZAP, Viva Real, DataZAP, FipeZAP, SuaHouse, Geoimóvel, Sub100 e Conecta Imobi) ou Imobi Conference`. O seu desafio está no apio à tomada de decisão baseada em dados (empresa data driven). 
 
-## Diagrama do projeto
+Nesse sentido, use a base de dados **aptos.csv** para realizar a descoberta do conhecimento e responder a pergunta: 
 
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
+**`Quanto vale um apartamento de 65m2 com 2 quartos, 2 vagas, reformado no Centro?`**
 
-<img src="/imagem.jpg" width="550">
+## Leia com atenção!!!
 
+- Avaliação **INDIVIDUAL**
 
-## Como usar 
+- Cuidado com a desonestidade intelectual; 
+    - AUTO AVALIAÇÃO: Uma auto avaliação não compatível com o material entregue será interpretada como desonestidade intelectual;
+    - PLÁGIO: Atividades que envolvem pesquisas na Internet podem ser enriquecidas com citações de várias fontes. No entanto, sempre que utilizar textos ou mesmo imagens que não sejam seus, seu trabalho deve ser acompanhado com um trecho de “referências”. Bastam os hiperlinks utilizados;
+    - COLA DE TRABALHOS: Não é permitida a troca de trabalhos entre os grupos, cada grupo é responsável pelo desenvolvimento intelectual do projeto. Não copie e entregue o trabalho de outro colega e não permita ser copiado. Atividades duplicadas resultarão na anulação de ambas.
 
-Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
+- O estudante deve implementar o projeto baseado na rubrica apresentada;
+- O estudante deve preencher o google forms de avaliação disponibilizado pelo professor;
+- O estudante deve subir o código em um repositório do github. 
 
-* Pode ser utilizado marcadores
-* Para ajudar na formatação
-
-Ou qualquer outra tabulação:
-
-- [x] Youtube
-- [ ] Facebook 
-- [x] Instagram
-
-Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
-
-    cd /home/iot
-    git clone https://github.com/arnaldojr/templatenac
-    cd templatenac
-    ls
-
-
-## Link de vídeo demonstração
-
-Adicione o link para assistir ao vídeo do projeto funcionando.
-
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
-
-
-### Referências 
-
-* [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
-* [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
