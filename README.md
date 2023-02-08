@@ -1,6 +1,6 @@
-# Template para desenvolvimento e entrega do Checkpoint
+# Template para desenvolvimento e entrega do Checkpoint 1
 
-Esse é um guia simples, o estudante pode e deve modificar o template para atender as necessidades do projeto. 
+Esse é um guia simples, o estudante pode e deve modificar para atender as necessidades do projeto. 
 
 **nome: (Seu nome)** 
 
@@ -8,13 +8,29 @@ Esse é um guia simples, o estudante pode e deve modificar o template para atend
 
 **Ano: 2023**
 
-## Objetivo / descrição do Projeto
+## Objetivo
 
-Você foi contratado por uma empresa inovadora do ramo imobiliario como `QuintoAndar, Loft, Terraz, grupo Zap (ZAP, Viva Real, DataZAP, FipeZAP, SuaHouse, Geoimóvel, Sub100 e Conecta Imobi) ou Imobi Conference`. O seu desafio está no apio à tomada de decisão baseada em dados (empresa data driven). 
+Avaliar conceitos sobre aprendizado de máquina (ML)
+
+## Descrição do Projeto
+
+Parabéns! Você foi contratado por uma empresa inovadora do ramo imobiliario como `QuintoAndar, Loft, Terraz, grupo Zap (ZAP, Viva Real, DataZAP, FipeZAP, SuaHouse, Geoimóvel, Sub100 e Conecta Imobi) ou Imobi Conference`. 
+
+O seu desafio está no apio à tomada de decisão baseada em dados (empresa data driven). 
 
 Nesse sentido, use a base de dados **aptos.csv** para realizar a descoberta do conhecimento e responder a pergunta: 
 
-**`Quanto vale um apartamento de 65m2 com 2 quartos, 2 vagas, reformado no Centro?`**
+**`Quanto vale um apartamento de 72m2 com 2 quartos, 2 vagas, reformado no Centro?`**
+
+## Desenvolvimento do projeto
+
+Faça o desenvolvimento do projeto seguindo as instruções do arquivo notebook **CheckPoint.ipynb** deste repositório.
+
+Ao final, preencha o forms de auto avaliação.
+
+[https://forms.gle/sw4LbAFX3ExeNjSw7](https://forms.gle/sw4LbAFX3ExeNjSw7)
+
+
 
 ## Leia com atenção!!!
 
