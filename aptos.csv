@@ -63,6 +63,8 @@ metros,valor,quartos,vagas,reformado,bairro
 107,650,3,2,1,Vila Lusitania
 150,790,3,4,1,Jardim do Mar
 54,245,2,1,1,Jordanopolis
+120,,3,4,0,Centro
+44,215,1,1,1,Rudge Ramos
 56,230,2,1,1,Assuncao
 57,250,2,1,1,Rudge Ramos
 53,302,2,1,1,Assuncao
@@ -83,9 +85,12 @@ metros,valor,quartos,vagas,reformado,bairro
 93,447,3,2,0,Baeta Neves
 52,272,2,1,0,Demarchi
 57,227,2,1,1,Demarchi
+62,322,2,1,0,Centro
+67,307,2,1,1,Centro
 58,195,2,1,1,Iraja
 107,565,3,2,1,Baeta Neves
 54,280,2,1,0,Assuncao
+52,276,1,1,,Assuncao
 50,245,2,1,1,Taboao
 130,875,3,2,1,Baeta Neves
 94,570,2,2,0,Baeta Neves
@@ -99,3 +104,12 @@ metros,valor,quartos,vagas,reformado,bairro
 55,200,2,0,1,Iraja
 53,220,2,1,1,Santa Teresinha
 58,200,2,1,0,Santa Teresinha
+44,237,2,2,0,Ferrazopolis
+50,250,2,2,1,Santa Teresinha
+73,565,3,2,0,Baeta Neves
+77,359,2,2,0,Centro
+65,340,2,2,1,Centro
+56,247,2,1,0,Planalto
+126,736,3,3,0,Iraja
+96,560,3,1,0,Centro
+103,667,3,3,0,Baeta Neves
